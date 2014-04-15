@@ -9,9 +9,11 @@ Fortunately, Beaglebone Black already has its driver pre-built in. So I don't ne
 I'm using Qt4 for graphic programming. I'm new to Qt.
 
 
-*USAGE
+USAGE
+
 
 wire up the module and run:
 
-  ./imu-setup
-  ./newtest -qws
+./imu-setup
+
+./newtest -qws
