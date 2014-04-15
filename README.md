@@ -5,7 +5,8 @@ Fortunately, Beaglebone Black already has its driver pre-built. So all I have to
 I'm using Qt4 for graphic programming. I'm new to Qt.
 
 
-====USAGE====
+USAGE
+
 ./imu-setup
 ./newtest -qws
 
