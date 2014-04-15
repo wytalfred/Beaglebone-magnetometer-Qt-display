@@ -14,6 +14,6 @@ USAGE
 
 wire up the module and run:
 
-./imu-setup
+./imu-setup.sh
 
 ./newtest -qws
