@@ -16,4 +16,4 @@ USAGE
 ./newtest -qws
 
 
-![image](https://github.com/wytalfred/Beaglebone-magnetometer-Qt-display/blob/master/mag01.jpg)
+![image](https://github.com/wytalfred/Beaglebone-magnetometer-Qt-display/raw/master/mag01.jpg)
